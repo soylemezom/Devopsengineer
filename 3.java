@@ -1,6 +1,7 @@
 // Java Program to demonstrate
 // Brute Force Method
-// to check if a number is prime
+// to check if a number is pr{
+// }ime
 class GFG {
 	static boolean isPrime(int n)
 	{
